@@ -21,5 +21,5 @@ Sou Beatriz Salles Pereira, tenho 24 anos e estou cursando Sistemas de Informaç
 Estou sempre aberto a novas oportunidades de aprendizado e colaboração. Se você tem interesse em discutir ideias, colaborar em projetos ou simplesmente trocar conhecimentos, sinta-se à vontade para entrar em contato.
 
 - 📫 **Email:** beatrizsalles123@gmail.com
-- 💼 **LinkedIn:** [Seu LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/beatrizsalles2902))
+- 💼 **LinkedIn:** [Seu LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/beatrizsalles2902)
 
