@@ -13,7 +13,7 @@ Sou Beatriz Salles Pereira, tenho 24 anos e estou cursando Sistemas de Informaç
 ### O Que Você Pode Encontrar Aqui
 
 - 📂 **Projetos Acadêmicos:** Repositórios com códigos e relatórios de projetos realizados durante meu curso.
-- 📊 **Slides e Apresentações:** Materiais de apresentações e projetos, como no meu projeto [Programa Quarto](https://github.com/seu-usuario/quarto).
+- 📊 **Slides e Apresentações:** Materiais de apresentações e projetos, como no meu projeto:
 - 💡 **Projetos Pessoais:** Iniciativas próprias onde exploro áreas de interesse pessoal, como desenvolvimento web e ciência de dados.
 
 ### Vamos Conectar!
